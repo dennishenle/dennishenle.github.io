@@ -31,6 +31,7 @@ The template is designed to be easily customizable through the `src/config.ts` f
 
 - **Personal Information**: Name, title, description
 - **Accent Color**: Primary color theme (changing this will change the accent color site wide)
+- **Dark Mode**: Toggle between light and dark themes (`true` / `false`)
 - **Social Links**: Email, LinkedIn, Twitter, GitHub (all optional)
 - **About Section**: Personal bio/description
 - **Skills**: List of technical skills
@@ -51,6 +52,7 @@ name: "Your Name",
 title: "Your Job Title",
 description: "Brief site description",
 accentColor: "#1d4ed8", // Hex color for theme
+darkMode: true, // Enable dark mode (default: true)
 ```
 
 #### Social Links (all optional)
