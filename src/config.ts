@@ -63,18 +63,6 @@ export const siteConfig = {
         "Chairman of the Student Initiative FEIN e.V. Aalen (2018 - 2019)",
       ],
     },
-    // {
-    //   school: "Hochschule Albstadt-Sigmaringen",
-    //   degree: "Mechanical Engineering",
-    //   dateRange: "2013 - 2016",
-    //   achievements: [],
-    // },
-    // {
-    //   school: "Hochschule Ulm",
-    //   degree: "Vehicle Electronics",
-    //   dateRange: "2012 - 2013",
-    //   achievements: [],
-    // },
     {
       school: "Technische Schule Heidenheim",
       degree: "University Entrance Qualification (Fachhochschulreife)",
