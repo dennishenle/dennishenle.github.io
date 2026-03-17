@@ -10,6 +10,7 @@ export const siteConfig = {
   title: "Mobile Developer",
   description: "Portfolio website of Dennis Henle",
   accentColor: "#761A5F",
+  darkMode: false,
   social: {
     email: "henledennis@gmail.com",
     github: "https://github.com/dennishenle",
