@@ -37,7 +37,7 @@ export const siteConfig = {
     },
     {
       company: "Blackpin GmbH, Aalen",
-      title: "Werkstudent",
+      title: "Working Student",
       dateRange: "Nov 2019 - Jun 2021",
       bullets: [
         "Mobile App Development (Flutter, Swift, SwiftUI)"
@@ -45,7 +45,7 @@ export const siteConfig = {
     },
     {
       company: "PeakConcepts GmbH, Aalen",
-      title: "Praktikant",
+      title: "Intern",
       dateRange: "Mar 2019 - Jul 2019",
       bullets: [
         "Mobile App Development (React Native)",
@@ -58,25 +58,25 @@ export const siteConfig = {
       degree: "Bachelor of Science in Software Engineering",
       dateRange: "2017 - 2021",
       achievements: [
-        "BA Thema: Machine Learning - Hitdetection in sports shooting",
-        "1. Vorstand der Fachschaftsinitiative FEIN e.V. Aalen (2018 - 2019)",
+        "BA Thesis: Machine Learning - Hit Detection in Sports Shooting",
+        "Chairman of the Student Initiative FEIN e.V. Aalen (2018 - 2019)",
       ],
     },
     // {
     //   school: "Hochschule Albstadt-Sigmaringen",
-    //   degree: "Maschinenbau",
+    //   degree: "Mechanical Engineering",
     //   dateRange: "2013 - 2016",
     //   achievements: [],
     // },
     // {
     //   school: "Hochschule Ulm",
-    //   degree: "Fahrzeugelektronik",
+    //   degree: "Vehicle Electronics",
     //   dateRange: "2012 - 2013",
     //   achievements: [],
     // },
     {
       school: "Technische Schule Heidenheim",
-      degree: "Fachhochschulreife",
+      degree: "University Entrance Qualification (Fachhochschulreife)",
       dateRange: "2010 - 2012",
       achievements: [],
     },
