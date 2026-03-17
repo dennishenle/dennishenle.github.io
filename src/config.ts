@@ -52,24 +52,31 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Hochschule Aalen",
+      degree: "Bachelor of Science in Software Engineering",
+      dateRange: "2017 - 2021",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "BA Thema: Machine Learning - Hitdetection in sports shooting",
+        "1. Vorstand der Fachschaftsinitiative FEIN e.V. Aalen (2018 - 2019)",
       ],
     },
+    // {
+    //   school: "Hochschule Albstadt-Sigmaringen",
+    //   degree: "Maschinenbau",
+    //   dateRange: "2013 - 2016",
+    //   achievements: [],
+    // },
+    // {
+    //   school: "Hochschule Ulm",
+    //   degree: "Fahrzeugelektronik",
+    //   dateRange: "2012 - 2013",
+    //   achievements: [],
+    // },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
+      school: "Technische Schule Heidenheim",
+      degree: "Fachhochschulreife",
+      dateRange: "2010 - 2012",
+      achievements: [],
     },
   ],
 };
