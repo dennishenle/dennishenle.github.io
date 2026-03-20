@@ -18,7 +18,20 @@ export const siteConfig = {
   aboutMe:
     "I'm a Flutter developer based in Ravensburg, Germany, passionate about crafting polished cross-platform apps. Beyond mobile development, I enjoy exploring AI tools and workflows, and I'm always tinkering with side projects in TypeScript, Swift, or Python. When I'm not coding, you'll find me mountain biking through the Allgäu, climbing, hiking the Alps, or gaming.",
   skills: ["Flutter", "Swift", "Javascript", "React", "Node.js", "Python", "Docker"],
-  projects: [],
+  projects: [
+    {
+      name: "Sveedpass Password Manager iOS App",
+      description: "Sveedpass is a password manager for iOS. It allows you to store your passwords securely and access them from your iPhone or iPad.",
+      link: "https://github.com/dennishenle/sveedPass-PasswordManager",
+      skills: ["Swift", "SwiftUI", "SwiftData", "SwiftPackageManager"],
+    },
+    {
+      name: "Sveedpass Next.js Website",
+      description: "The website for Sveedpass. To get an overall idea of the app and its features.",
+      link: "https://github.com/dennishenle/sveedpass-website",
+      skills: ["Next.js", "Tailwind CSS", "TypeScript"],
+    }
+  ],
   experience: [
     {
       company: "sevdesk GmbH, Offenburg",
