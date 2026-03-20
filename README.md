@@ -1,4 +1,5 @@
-<img width="1943" height="1093" alt="image" src="https://github.com/user-attachments/assets/cc2ff955-17c2-48c7-81c8-479a0f061850" />
+
+<img height="600" alt="260320_17h29m39s_screenshot" src="https://github.com/user-attachments/assets/e8c1db33-c7a9-4299-8d00-05d4c6f2a4f7" />
 
 # DevPortfolio Template
 
