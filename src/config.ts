@@ -20,6 +20,12 @@ export const siteConfig = {
   skills: ["Flutter", "Swift", "Javascript", "React", "Node.js", "Python", "Docker"],
   projects: [
     {
+      name: "Wedding Website",
+      description: "The website for our wedding. It's a simple single page website with a few informations and images.",
+      link: "https://github.com/dennishenle/wir-heiraten",
+      skills: ["Astro", "Tailwind CSS", "TypeScript"],
+    },
+    {
       name: "Sveedpass Password Manager iOS App",
       description: "Sveedpass is a password manager for iOS. It allows you to store your passwords securely and access them from your iPhone or iPad.",
       link: "https://github.com/dennishenle/sveedPass-PasswordManager",
