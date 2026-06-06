@@ -20,6 +20,12 @@ export const siteConfig = {
   skills: ["Flutter", "Swift", "Javascript", "React", "Node.js", "Python", "Docker"],
   projects: [
     {
+      name: "Zeitlupius Time Tracker",
+      description: "Terminal-based time tracker with a TUI and CLI, written in Rust.",
+      link: "https://github.com/dennishenle/zeitlupius",
+      skills: ["Rust", "Ratatui"],
+    },
+    {
       name: "Wedding Website",
       description: "The website for our wedding. It's a simple single page website with a few informations and images.",
       link: "https://github.com/dennishenle/wir-heiraten",
