@@ -25,12 +25,12 @@ export const siteConfig = {
       link: "https://github.com/dennishenle/zeitlupius",
       skills: ["Rust", "Ratatui"],
     },
-    {
-      name: "Wedding Website",
-      description: "The website for our wedding. It's a simple single page website with a few informations and images.",
-      link: "https://github.com/dennishenle/wir-heiraten",
-      skills: ["Astro", "Tailwind CSS", "TypeScript"],
-    },
+    // {
+    //   name: "Wedding Website",
+    //   description: "The website for our wedding. It's a simple single page website with a few informations and images.",
+    //   link: "https://github.com/dennishenle/wir-heiraten",
+    //   skills: ["Astro", "Tailwind CSS", "TypeScript"],
+    // },
     {
       name: "Sveedpass Password Manager iOS App",
       description: "Sveedpass is a password manager for iOS. It allows you to store your passwords securely and access them from your iPhone or iPad.",
